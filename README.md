@@ -1,4 +1,4 @@
-# ThymeWise
+# thyme_wise
 
 A cute and aesthetic app that allows users to track and take care of their plants.
 
