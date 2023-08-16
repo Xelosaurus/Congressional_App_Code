@@ -14,13 +14,25 @@ class IntroPage extends StatelessWidget {
               children: [
                 const SizedBox(height: 50),
 
+                // app name
                 Text(
-                  "PLANTASTIC APP", 
+                  "THYME-WISE", 
                   style: GoogleFonts.dmSerifDisplay(
-                    fontSize: 40,
+                    fontSize: 50,
                     color: Colors.white,
                   ),
-                )
+                ),
+
+                const SizedBox(height: 50),
+
+                // icon
+                Image.asset('lib/images/watering-plants.png'),
+
+                
+
+
+
+
               ],
             )
         )
